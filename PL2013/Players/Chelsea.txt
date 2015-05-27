@@ -1,0 +1,23 @@
+
+1	Cech, Petr
+2	Schurrle, Andre
+3	Luiz Moreira Marinho, David
+4	Schwarzer, Mark
+5	De Bruyne, Kevin
+6	Mata Garcia, Juan Manuel
+7	Ivanovic, Branislav
+8	Azpilicueta Tanco, Cesar
+9	Santos Do Nascimento, Ramires
+10	Dos Santos Emboaba Junior, Oscar
+11	Mikel, John Obi
+12	Torres Sanz, Fernando Jose
+13	Ba, Demba
+14	Hazard, Eden
+15	Essien, Michael
+16	Borges Da Silva, Willian
+17	Eto'o Fils, Samuel
+18	Terry, John George
+19	Cole, Ashley
+20	Lampard, Frank James
+21	Cahill, Gary James
+22	Bertrand, Ryan

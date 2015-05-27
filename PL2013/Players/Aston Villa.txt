@@ -1,0 +1,26 @@
+
+1	Agbonlahor, Gabriel
+2	Albrighton, Marc Kevin
+3	Bacuna, Leandro Jones Johan
+4	Baker, Nathan Luke
+5	N'Zogbia, Charles
+6	Bennett, Joseph
+7	Benteke, Christian
+8	Bowery, Jordan
+9	Clark, Ciaran
+10	Delph, Fabian
+11	El Ahmadi Aroussi, Karim
+12	Given, Shay John James
+13	Guzan, Bradley Edwin
+14	Jensen, Nicklaus Helenius
+15	Herd, Christopher
+16	Kozak, Libor
+17	Lowton, Matthew John
+18	Luna Rodriguez, Antonio Manuel
+19	Stevens, Enda
+20	Stieber, Andras
+21	Sylla, Yacouba
+22	Tonev, Aleksandar Antonov
+23	Vlaar, Ron Peter
+24	Weimann, Andreas
+25	Westwood, Ashley Roy

@@ -1,0 +1,21 @@
+
+1	 Azpilicueta Tanco, Cesar 
+2	 Borges Da Silva, Willian 
+3	 Cahill, Gary James 
+4	 Cech, Petr 
+5	 Courtois, Thibaut 
+6	 Da Silva Costa, Diego 
+7	 Dos Santos Emboaba Junior, Oscar 
+8	 Drogba, Didier 
+9	 Fabregas Soler, Francesc 
+10	 Hazard, Eden 
+11	 Ivanovic, Branislav 
+12	 Kasmirski, Filipe Luis 
+13	 Matic, Nemanja 
+14	 Mikel, John Obi 
+15	 Remy, Loic 
+16	 Salah, Mohamed 
+17	 Santos Do Nascimento, Ramires 
+18	 Schurrle, Andre 
+19	 Schwarzer, Mark 
+20	 Terry, John George  

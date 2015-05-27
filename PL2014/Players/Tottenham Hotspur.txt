@@ -1,0 +1,24 @@
+
+1	 Adebayor, Emmanuel 
+2	 Bezerra Maciel Junior, Jose Paulo 
+3	 Capoue, Etienne 
+4	 Ceballos, Cristian 
+5	 Chadli, Nacer 
+6	 Chiriches, Vlad Iulian 
+7	 Dembele, Moussa 
+8	 Eriksen, Christian 
+9	 Fazio, Federico 
+10	 Friedel, Bradley Howard 
+11	 Kaboul, Younes 
+12	 Lamela, Erik 
+13	 Lennon, Aaron 
+14	 Lloris, Hugo 
+15	 Mason, Ryan Glen 
+16	 Naughton, Kyle 
+17	 Rose, Daniel Lee 
+18	 Soldado Rillo, Roberto 
+19	 Stambouli, Benjamin 
+20	 Townsend, Andros 
+21	 Vertonghen, Jan 
+22	 Vorm, Michel 
+23	 Walker, Kyle Andrew 

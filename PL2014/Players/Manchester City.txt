@@ -1,0 +1,25 @@
+
+1	 Aguero Del Castillo, Sergio 
+2	 Boyata, Dedryck Anga 
+3	 Caballero Lazcano, Wilfredo Daniel 
+4	 Clichy, Gael 
+5	 Demichelis, Martin Gaston 
+6	 Dzeko, Edin 
+7	 Guidetti, John Alberto 
+8	 Hart, Charles Joseph John 
+9	 Jimenez Silva, David Josue 
+10	 Jovetic, Stevan 
+11	 Kolarov, Aleksandar 
+12	 Kompany, Vincent 
+13	 Lampard, Frank James 
+14	 Luiz Roza, Fernando 
+15	 Mangala, Eliaquim 
+16	 Milner, James Philip 
+17	 Nasri, Samir 
+18	 Navas, Jesus 
+19	 Reges, Fernando Francisco 
+20	 Sagna, Bacary 
+21	 Sinclair, Scott Andrew 
+22	 Toure, Gnegneri Yaya 
+23	 Wright, Richard Ian 
+24	 Zabaleta Girod, Pablo Javier 

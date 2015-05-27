@@ -1,0 +1,26 @@
+
+1	 Abeid, Mehdi 
+2	 Ameobi, Samuel 
+3	 Anita, Vurnon San Benito 
+4	 Cabella, Remy 
+5	 Cisse, Papiss Demba 
+6	 Colback, Jack Raymond 
+7	 Coloccini, Fabricio 
+8	 De Jong, Siem 
+9	 Dummett, Paul 
+10	 Elliot, Robert 
+11	 Ferreyra, Facundo 
+12	 Gouffran, Yoan 
+13	 Gutierrez, Jonas Manuel 
+14	 Haidara, Massadio 
+15	 Janmaat, Daryl 
+16	 Krul, Timothy Michael 
+17	 Obertan, Gabriel Antoine 
+18	 Riviere, Emmanuel 
+19	 Santon, Davide 
+20	 Sissoko, Moussa 
+21	 Taylor, Ryan Anthony 
+22	 Taylor, Steven Vincent 
+23	 Tiote, Cheik Ismael 
+24	 Vuckic, Haris 
+25	 Williamson, Michael James 

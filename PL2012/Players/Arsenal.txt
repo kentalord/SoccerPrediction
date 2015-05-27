@@ -1,0 +1,24 @@
+
+1	 Arshavin, Andrey 
+2	 Arteta Amatriain, Mikel 
+3	 Cazorla, Santiago 
+4	 Chamakh, Maroune 
+5	 Clarindo Dos Santos, Andre 
+6	 Diaby, Vassiriki Abou 
+7	 Djourou-Gbadjere, Johan Danon 
+8	 Fabianski, Lukasz 
+9	 Yao, Gervais Kouassi 
+10	 Gibbs, Kieran James Ricardo 
+11	 Giroud, Olivier 
+12	 Koscielny, Laurent 
+13	 Mannone, Vito 
+14	 Mertesacker, Per 
+15	 Podolski, Lukas 
+16	 Ramsey, Aaron James 
+17	 Rosicky, Tomas 
+18	 Sagna, Bacary 
+19	 Squillaci, Sebastien 
+20	 Szczesny, Wojciech Tomasz 
+21	 Vermaelen, Thomas 
+22	 Walcott, Theo James 
+23	 Eastmond, Craig Leon 

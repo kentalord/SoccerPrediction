@@ -1,0 +1,25 @@
+
+1	Ameobi, Foluwashola
+2	Anita, Vurnon San Benito
+3	Ben Arfa, Hatem
+4	Cabaye, Yohan
+5	Cisse, Papiss Demba
+6	Coloccini, Fabricio
+7	Debuchy, Mathieu
+8	Dummett, Paul
+9	Elliot, Robert
+10	Gosling, Daniel
+11	Gouffran, Yoan
+12	Gutierrez, Jonas Manuel
+13	Krul, Timothy Michael
+14	Marveaux, Sylvain
+15	Obertan, Gabriel Antoine
+16	Remy, Loic
+17	Santon, Davide
+18	Sissoko, Moussa
+19	Tavernier, James Henry
+20	Taylor, Ryan Anthony
+21	Taylor, Steven Vincent
+22	Tiote, Cheik Ismael
+23	Williamson, Michael James
+24	Yanga-Mbiwa, Mapou

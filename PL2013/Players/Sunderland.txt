@@ -1,0 +1,24 @@
+
+1	Altidore, Josmer
+2	Bardsley, Phillip Anthony
+3	Borini, Fabio
+4	Brown, Wesley Michael
+5	Tavares Varela, Adilson
+6	Cattermole, Lee Barry
+7	Celustka, Ondrej
+8	Colback, Jack Raymond
+9	Cuellar Jimenez, Carlos Javier
+10	Diakite, Modibo
+11	Dossena, Andrea
+12	Fletcher, Steven Kenneth
+13	Gardner, Craig
+14	Giaccherini, Emanuele
+15	Ji, Dong Won
+16	Johnson, Adam
+17	Ki, Sung Yueng
+18	Larsson, Sebastian Bengt Ulf
+19	Mannone, Vito
+20	O'Shea, John Francis
+21	Roberge, Valentin
+22	Vaughan, David Owen
+23	Westwood, Keiren

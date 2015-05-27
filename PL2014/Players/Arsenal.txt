@@ -1,0 +1,24 @@
+
+1	 Arteta Amatriain, Mikel 
+2	 Campbell, Joel 
+3	 Cazorla, Santiago 
+4	 Coquelin, Francis 
+5	 Debuchy, Mathieu 
+6	 Diaby, Vassiriki Abou 
+7	 Flamini, Mathieu 
+8	 Gibbs, Kieran James Ricardo 
+9	 Giroud, Olivier 
+10	 Koscielny, Laurent 
+11	 Martinez, Damian Emiliano 
+12	 Mertesacker, Per 
+13	 Monreal, Ignacio 
+14	 Ospina, David 
+15	 Ozil, Mesut 
+16	 Podolski, Lukas 
+17	 Ramsey, Aaron James 
+18	 Rosicky, Tomas 
+19	 Sanchez, Alexis 
+20	 Szczesny, Wojciech Tomasz 
+21	 Walcott, Theo James 
+22	 Welbeck, Daniel 
+23	 Wilshere, Jack Andrew 

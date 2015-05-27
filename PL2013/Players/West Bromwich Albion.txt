@@ -1,0 +1,26 @@
+
+1	Amalfitano, Morgan
+2	Anelka, Nicolas
+3	Brunt, Christopher
+4	Camp, Lee Michael John
+5	Daniels, Luke Matthew
+6	Dawson, Craig
+7	Dorrans, Graham
+8	Foster, Ben
+9	Gera, Zoltan
+10	Jones, Billy
+11	Long, Shane Patrick
+12	Lugano, Diego
+13	McAuley, Gareth Gerald
+14	Morrison, James Clark
+15	Mulumbu, Youssouf
+16	Myhill, Glyn Oliver
+17	Olsson, Jonas
+18	Popov, Goran
+19	Reid, Steven John
+20	Ridgewell, Liam Matthew
+21	Rosenberg, Nils Markus
+22	Sinclair, Scott Andrew
+23	Yacob, Claudio
+24	Sessegnon, Stephane
+25	Anichebe, Victor Chinedu
